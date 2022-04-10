@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Javascript, HTML, CSS...
 - 💞️ I’m looking to collaborate on any project that involves User Interfaces / User Experience (Desktop, Web or Mobile);
 
-  ✨ PS: I'm changing my career path from Control& Automation to  Development/ IT so I'm looking for my first opportunity!
+  ✨ PS: I'm changing my career path from Control & Automation to  Development/ IT so I'm looking for my first opportunity!
 
 
 <div>
