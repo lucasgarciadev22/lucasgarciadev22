@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning Java, Javascript, HTML, CSS...
 - 💞️ I’m looking to collaborate on any project that involves User Interfaces / User Experience (Desktop, Web or Mobile);
 
-     PS: I'm changing my career path from Control& Automation to  Development/ IT so I'm looking for my first opportunity!
+  ✨ PS: I'm changing my career path from Control& Automation to  Development/ IT so I'm looking for my first opportunity!
 
 
-<div align=left style="display: inline_block";>
+<div>
      
- <a href="https://www.linkedin.com/in/lucasmggarcia22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://lucasgarciadev22.github.io/Showcase-Webpage/" target="_blank">< img src="https://cdn-icons-png.flaticon.com/512/4346/4346163.png" target="_blank"></a>
-     </div>
-     <p></p>
+ <a href="https://www.linkedin.com/in/lucasmggarcia22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><div></div>
+ <a href="https://lucasgarciadev22.github.io/Showcase-Webpage/" target="_blank">🌐My Projects Showcase</a>
+</div>
+<div></div>
                
                
 
