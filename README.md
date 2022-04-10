@@ -7,7 +7,7 @@ PS: I'm changing my career path from Control& Automation to  Development/ IT so 
 
 
 <div align=left><p>📫 How to reach me >> My Linkedin:</p>
- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+ <a href="https://www.linkedin.com/in/lucasmggarcia22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 <!---
 lucasgarciadev22/lucasgarciadev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
