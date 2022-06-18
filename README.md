@@ -12,7 +12,7 @@
  <a href="https://lucasgarciadev22.github.io/Showcase-Webpage/" target="_blank">🌐My Projects Showcase</a>
 </div>
 <div></div>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucasmggarcia22" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucasmggarcia22?trk=profile-badge">Lucas Garcia</a></div>
               
                
