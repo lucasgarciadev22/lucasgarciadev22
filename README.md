@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Lucas Garcia, from Brazil 🇧🇷
-- 👀 I’m interested in UX/UI, Front-End Development. But also wanna a strong background in Java/C# (Back-End).
-- 🌱 I’m currently learning C#, Java, Javascript, HTML, XAML, CSS...
-- 💞️ I’m looking to collaborate on any project that involves User Interfaces / User Experience (Desktop, Web or Mobile).
+# - 👋  Hi, I’m Lucas Garcia, from Brazil 🇧🇷
+## - 👀  I’m interested in UX/UI, Front-End Development. But also wanna a strong background in Java/C# (Back-End).
+## - 🌱  I’m currently learning **C#, Java, Javascript, HTML, XAML, CSS**...
+## - 💞️  I’m looking to collaborate on any project that involves User Interfaces / User Experience (Desktop, Web or Mobile).
 
-  ✨ PS: I'm changing my career path from Control & Automation to  Software...
+
 
 
 <div>
