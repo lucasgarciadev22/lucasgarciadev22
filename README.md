@@ -26,4 +26,5 @@ You can click the Preview link to take  a look at your changes.
 <div align="center">
   <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadev22&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
   
