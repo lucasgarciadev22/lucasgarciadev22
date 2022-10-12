@@ -24,7 +24,7 @@
                
 
 
-<div align="center">
+<div align="left">
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciadev22&layout=compact&langs_count=7&theme=chartreuse-dark"/>              
  <!----        
 lucasgarciadev22/lucasgarciadev22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
