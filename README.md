@@ -1,6 +1,6 @@
 ###  👋  Hi, I’m Lucas Garcia, from Brazil 🇧🇷
  - 👀  I’m interested in UX/UI, Front-End Development. But also wanna a strong background in Java/C# (Back-End).
- - 🌱  I’m currently learning **C#, .NETCore, ReactJs, Typescript,NodeJs,**...
+ - 🌱  I’m currently learning **C#, .NET, ReactJs, Typescript, Angular**...
  - 💞️  I’m looking to collaborate on any project that involves User Interfaces / User Experience (Desktop, Web or Mobile).
 
 
